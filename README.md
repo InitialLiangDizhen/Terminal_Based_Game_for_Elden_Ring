@@ -11,3 +11,5 @@ Team members:
 
 # Team Contribution Log Spreadsheet
 https://docs.google.com/spreadsheets/d/1-lvBtzVs8NhmINNFIypbpXjKnV3jCvKWLPFxOlfrqgI/edit?usp=sharing
+
+This project is terminal-based game which is developed with the background of Elden Ring and the engine code from the lecturer.
